@@ -1,6 +1,6 @@
 # Add your variables here
 first_number = 1 
-def calculator(first_number)
+def calculator
   number1 = first_number
 end
 
